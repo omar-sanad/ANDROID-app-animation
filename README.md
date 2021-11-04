@@ -6,7 +6,7 @@
   <img src="screen/1.png" width="350" title="hover text">
 </p>
 
-<h1>the app has 12 buttons :</h1>
+<h4>the app has 12 buttons :</h4>
 </br>
 Zoom in button.
 </br>
