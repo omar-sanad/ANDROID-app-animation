@@ -7,16 +7,27 @@
 </p>
 
 the app has 12 buttons :
-
+</br>
 Zoom in button.
+</br>
 Zoom out button.
+</br>
 Fade in button.
+</br>
 Fade out button. 
+</br>
 Slide left button. 
+</br>
 Slide right button. 
+</br>
 Slide up button.
+</br>
 Slide Down button. 
-Zoom in Fade in button. 
+</br>
+Zoom in Fade in button.
+</br>
 Zoom out Fade in button. 
+</br>
 Rotate button.
+</br>
 Move button.
